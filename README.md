@@ -10,7 +10,7 @@
 
 Thank you!
 
-Visit my portfolio page at https://gregoriogallo.github.io/Portfolio-/
+Visit my portfolio page at https://gregoriogallo.github.io/Portfolio
 
 Regards
 
